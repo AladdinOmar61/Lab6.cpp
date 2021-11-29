@@ -64,6 +64,7 @@ public:
         cout << "deleting: " << sentences[len - 1] << endl;
         sentences[len - 1] = " ";
     }
+    //hi
 
 private:
     //current array length
